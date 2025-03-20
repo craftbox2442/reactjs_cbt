@@ -3,3 +3,8 @@ system
 er
 erer
 eresrrwrwrwr
+
+
+#!/bin/bash
+cd /home/smalloff/repo/reactjs_vite
+git pull origin main
