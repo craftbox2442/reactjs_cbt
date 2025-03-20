@@ -1,4 +1,3 @@
----
 deployment:
   tasks:
     - /bin/git pull origin main
